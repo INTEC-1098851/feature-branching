@@ -1,0 +1,1 @@
+git merge feature/feature-1 --squash
